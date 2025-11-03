@@ -1,6 +1,6 @@
 # turkey-neighbourhoods
 Always up to date names of cities, districts and neighbourhoods of Turkey + city distances.
-
+.
 **In Turkish: **
 Her zaman güncel, Türkiye şehir, posta kodu, plaka kodu, ilçe ve mahalle listesi + şehirlerarası mesafeler.
 
